@@ -4,7 +4,12 @@ During my graduation, I had the opportunity to work on several significant proje
 
 2.colors.py: I created a Python project using the Turtle graphics module to design a colorful hologram.
 
-3.student_deatils.py: For this project, I created a Python project using the Tkinter module to develop an application for collecting student data. This work was particularly valuable in developing my skills on Tkinter by using python.
+3.hg.py: Project on Hand Gesture Recognition for PowerPoint Slide Control!
+Using Python and OpenCV, I developed a system that allows users to navigate PowerPoint slides with simple hand gestures:
+🖐 Open Palm → Next Slide
+✊ Raised Fist → Previous Slide
+
+4.student_deatils.py: For this project, I created a Python project using the Tkinter module to develop an application for collecting student data. This work was particularly valuable in developing my skills on Tkinter by using python.
 
 These projects were instrumental in shaping my understanding of subject for python, and they provided a solid foundation for my professional career.
 
